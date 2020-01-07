@@ -1,5 +1,4 @@
 const fs = require('fs')
-const Jimp = require('jimp')
 
 const imgScraper = require('./image-scraper')
 const quoteScraper = require('./quote-scraper')
